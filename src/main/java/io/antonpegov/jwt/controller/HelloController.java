@@ -1,4 +1,4 @@
-package io.antonpegov.jwt.hello;
+package io.antonpegov.jwt.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

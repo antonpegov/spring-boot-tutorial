@@ -1,4 +1,4 @@
-package io.antonpegov.jwt.topic;
+package io.antonpegov.jwt.model;
 
 public class Topic {
 
